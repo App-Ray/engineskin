@@ -15,7 +15,7 @@
 *  0. You just DO WHATEVER YOU WANT TO.
 *
 *
-* v1.12, 2016-09-20
+* v1.2, 2016-09-20
 */
 
 document.getElementById("logo").style.display="none";
